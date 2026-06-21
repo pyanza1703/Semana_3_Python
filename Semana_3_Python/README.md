@@ -7,7 +7,7 @@
 ---
 
 ## 📝 Descripción del Proyecto
-Este repositorio contiene el desarrollo práctico comparativo solicitado para la asignatura. Consiste en resolver el mismo problema computacional (un sistema básico de registro y visualización de datos de mascotas que incluye Nombre, Especie y Edad) aplicando dos paradigmas informáticos independientes: la **Programación Tradicional** y la **Programación Orientada a Objetos (POO)**. El fin pedagógico es estudiar el impacto de ambos enfoques en la estructura del código, legibilidad y el control de la información.
+Este repositorio contiene el desarrollo práctico comparativo solicitado para la asignatura. Consiste en resolver el mismo problema computacional aplicando dos paradigmas informáticos independientes: la **Programación Tradicional** y la **Programación Orientada a Objetos (POO)**. El fin pedagógico es estudiar el impacto de ambos enfoques en la estructura del código, legibilidad y el control de la información.
 
 ---
 
