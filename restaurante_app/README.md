@@ -15,6 +15,7 @@ Este es un programa en Python enfocado en demostrar el uso de la arquitectura mo
 
 El repositorio está organizado respetando la separación de responsabilidades en módulos independientes:
 
+```text
 restaurante_app/
 │
 ├── modelos/                  # CAPA DE DATOS (Entidades puras)
@@ -22,10 +23,9 @@ restaurante_app/
 │   └── cliente.py            # Define la clase Cliente (atributos: nombre, cédula)
 │
 ├── servicios/                # CAPA DE LÓGICA DE NEGOCIO (Controladores)
-│   └── restaurante.py        # Clase Restaurante: Administra el almacenamiento 
-│                               en memoria de las listas de productos y clientes.
+│   └── restaurante.py        # Clase Restaurante: Administra el almacenamiento en memoria
 │
 ├── main.py                   # PUNTO DE ARRANQUE (Orquestador principal)
 │                             # Importa los módulos, genera los objetos de prueba
-│                               y ejecuta la demostración en consola.
+│                             # y ejecuta la demostración en consola.
 └── README.md                 # Documentación técnica del repositorio
